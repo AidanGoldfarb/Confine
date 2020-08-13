@@ -1,5 +1,5 @@
 # confine.c
-Program to run an exicutable binary in a restricted enviroment. 
+Program to run an executable binary in a restricted environment 
 [Assignment Source](https://www.cs.rochester.edu/~sree/courses/csc-252-452/fall-2019/a4.html)
 
 
