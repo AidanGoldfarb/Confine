@@ -1,9 +1,0 @@
-CC = gcc
-CFLAGS = -Wall
-
-all: ti
-
-confineny: confine.c
-	$(CC) $(CFLAGS) -o confine $(LIB)
-test: test.c
-	$(CC) $(CFLAGS) -o test $(LIB)
