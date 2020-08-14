@@ -21,6 +21,7 @@ int main(int argc, char **argv){
 	// char buf[2];
 	// strcpy("LLLLLLLLLLLL", buf);
 	/*-end of seg fault code-*/
+	free(big);
 	return 1;
 }
 void delay(int sec){

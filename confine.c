@@ -96,6 +96,8 @@ int main(int argc, char **argv){
 	}
 
 	fclose(f);
+	free(mem_rlim);
+	free(file_rlim);
 	return 0;
 }
 void handler(int sig){}
