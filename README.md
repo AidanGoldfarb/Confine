@@ -10,7 +10,7 @@ Program to run an executable binary in a restricted environment
 ## To build
 - Run `make`
 * Compiles confine.c and test.c
-* Creates exicutable `confine` and `test`
+* Creates executable `confine` and `test`
 
 
 #### Custom test program
